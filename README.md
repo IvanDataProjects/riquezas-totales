@@ -5,22 +5,20 @@ Este proyecto realiza un análisis exploratorio y visual de los datos sobre la r
 
 🎯 **Objetivos**
 - Cargar y explorar el conjunto de datos de riqueza total.
-- Analizar la evolución temporal por país y región.
 - Comparar los niveles de riqueza entre distintas zonas geográficas.
-- Visualizar hallazgos clave mediante gráficos interactivos.
+- Visualizar hallazgos clave mediante gráficos.
 
 🧪 **Metodología**
 - Carga y limpieza de datos.
-- Agrupaciones por año, país y región.
-- Análisis comparativo y temporal.
-- Visualizaciones con Matplotlib y Seaborn.
+- Análisis comparativo.
+- Visualizaciones con Matplotlib, Seaborn y GeoJSON .
 
 📁 **Archivos incluidos**
 - `riquezas-totales.ipynb`: notebook con el análisis completo.
 - `average-net-worth-by-country-2021.csv`: csv utilizado.
 
 🛠️ **Tecnologías utilizadas**
-- Python (pandas, numpy, matplotlib, seaborn)
+- Python (pandas, numpy, matplotlib, seaborn, GeoJSON )
 - Jupyter Notebook
 
 🚀 **Autor**
